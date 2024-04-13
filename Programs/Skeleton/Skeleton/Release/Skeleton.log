@@ -1,0 +1,23 @@
+﻿  framework.cpp
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\framework.h(168): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Skeleton.cpp
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\framework.h(168): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(133): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(134): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(459): error C2065: 'p': undeclared identifier
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(515): error C2065: 'p': undeclared identifier
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(521): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(544): warning C4018: '<': signed/unsigned mismatch
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(649): warning C4018: '<': signed/unsigned mismatch
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(651): warning C4018: '<': signed/unsigned mismatch
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(652): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(665): warning C4018: '<': signed/unsigned mismatch
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(667): warning C4018: '<': signed/unsigned mismatch
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(668): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(723): error C2065: 'p': undeclared identifier
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(773): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(774): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(775): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\bence\desktop\grafika\hf1_done\hf1_kész\programs\skeleton\skeleton\skeleton.cpp(776): warning C4305: 'argument': truncation from 'double' to 'float'
